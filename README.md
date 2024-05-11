@@ -1,0 +1,4 @@
+- npm create vite@latest fusiondesafio03
+- framework: react / typescript
+- npm install
+- npm run dev
